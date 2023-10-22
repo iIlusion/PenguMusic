@@ -1,0 +1,15 @@
+{
+    "enable": false,
+    "mode": "",
+    "SPOTIFY": {
+        "refreshToken": "",
+        "client_id": "",
+        "client_secret": ""
+        
+    },
+    "LASTFM": {
+        "key": "",
+        "user": ""
+    },
+    "debug": false
+}
